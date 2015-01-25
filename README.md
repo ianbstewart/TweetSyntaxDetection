@@ -7,12 +7,12 @@ This is meant as a add-on package to the fantastic POS Twitter taggers developed
 
 (0) Collect your data! I'm working on a real simple Python Twitter miner but for now you should check out (https://github.com/tweepy/tweepy) to get going.
 
-(1) To get started, pull the package from https://github.com/brendano/ark-tweet-nlp/. Once you've got that and your raw data, modify runTagger.sh to have your tweet file as its input and a new file name as its output. It will look like this:
+(1) To get started, pull the package from https://github.com/brendano/ark-tweet-nlp/. Once you've got that and your raw data, modify runTagger.sh to have your tweet file as its input and a new file name as its output. It will look something like this:
 
 "#!/bin/bash
 set -eu
 
-# Run the tagger (and tokenizer).
+\# Run the tagger (and tokenizer).
 java -XX:ParallelGCThreads=2 -Xmx500m -jar $(dirname $0)/ark-tweet-nlp-0.3.2.jar "$@" --model model.ritter_ptb_alldata_fixed.20130723 sampleTweets.txt > sampleTweetsTagged.txt"
 
 The long model name (model.ritter...) specifies which kind of POS tags you want: the "standard" PTB stuff (https://mlnl.net/jg/software/pac/ptb_pos.html) or the custom tags which are simpler and Twitter-specific (http://www.ark.cs.cmu.edu/TweetNLP/annot_guidelines.pdf). I included sampleTweets.txt, sample
