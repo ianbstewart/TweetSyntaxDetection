@@ -1,0 +1,400 @@
+it	don't	mean	nothing	if	its	not	done	right	apply	that	to	everything	d.a
+O	V	V	N	P	L	R	V	R	V	O	P	N	R
+
+0.9943	1.0000	0.9977	0.9822	0.9997	0.9950	0.9989	0.9883	0.7403	0.9743	0.6769	0.9793	0.8726	0.3416
+-user-	lol	i	don't	like	having	nothing	to	do	but	we	go	on	this	trip	every	year	the	week	before	school	since	i	was	-number-
+N	!	O	V	V	V	N	P	V	&	O	V	P	D	N	D	N	D	N	P	N	P	O	V	N
+
+0.4902	0.9928	0.9929	1.0000	0.9005	0.9979	0.9975	0.9927	0.9996	0.9904	0.9978	0.9986	0.9847	0.9681	0.9669	0.9487	0.9897	0.9976	0.9966	0.9773	0.9985	0.9796	0.9980	0.9997	0.9220
+don't	take	nothing	from	nobody
+V	V	N	P	N
+
+0.9992	0.9998	0.9982	0.9992	0.9483
+i	don't	need	too	much	of	nothing	i	just	wanna	sing	a	little	chill	song	and	get	my	groove	on	pour	something	strong	down	in	my	drink
+O	V	V	R	A	P	N	O	R	V	V	D	A	N	N	&	V	D	N	P	N	N	A	P	P	D	N
+
+0.9863	1.0000	0.9990	0.9983	0.7021	0.9936	0.9986	0.9510	0.9996	0.9933	0.9999	0.9988	0.9873	0.6338	0.9916	0.9949	0.9997	0.9966	0.9969	0.9970	0.5779	0.9917	0.7225	0.4185	0.9914	0.9934	0.9792
+give	it	your	all	or	just	don't	give	nothing
+V	O	D	D	&	R	V	V	N
+
+0.9981	0.9643	0.5247	0.3036	0.9855	0.9992	0.9999	0.9998	0.9948
+if	you	don't	wanna	dance	then	don't	then	why	waste	a	niggas	song	then	sit	down	and	do	nothing
+P	O	V	V	V	R	V	R	R	V	D	N	N	R	V	T	&	V	N
+
+0.9977	0.9997	1.0000	0.9989	0.8467	0.9853	0.9995	0.9566	0.9526	0.5739	0.9944	0.9800	0.9671	0.9536	0.9942	0.7153	0.9972	0.9989	0.9878
+on	my	either	we	fucking	or	not	trying	wife	is	out	bitches	don't	want	nothing	real
+P	D	&	O	V	&	R	V	N	V	A	N	V	V	N	A
+
+0.9880	0.7850	0.6145	0.9890	0.6773	0.9863	0.9972	0.9948	0.9890	0.9998	0.3727	0.9987	0.9998	0.9999	0.9830	0.6356
+-user-	don't	do	dat	nothing	bad	doe	lol
+N	V	V	O	N	A	P	!
+
+0.5610	0.9995	0.9999	0.6533	0.9727	0.9191	0.3689	0.9946
+you	don't	understand	that	i	try	and	i	try	and	i	try	what	do	i	get	back	nothing
+O	V	V	O	O	V	&	O	V	&	O	V	O	V	O	V	R	N
+
+0.9968	1.0000	0.9998	0.3750	0.9906	0.9983	0.9967	0.9910	0.9983	0.9967	0.9910	0.9995	0.9972	0.9815	0.9953	0.9999	0.3170	0.9832
+around	this	time	i	don't	say	nothing
+P	D	N	O	V	V	N
+
+0.9020	0.9861	0.9989	0.9357	1.0000	0.9996	0.9755
+i	don't	take	nothing	from	nobody
+O	V	V	N	P	N
+
+0.9863	1.0000	0.9998	0.9984	0.9987	0.9585
+my	minds	tellin	me	no	but	my	body	is	tellin	me	yesssss	i	don't	see	nothing	wrong	with	a	little	-punct-	-hashtag-
+D	N	V	O	R	&	D	N	V	V	O	!	O	V	V	N	A	P	D	A	N	N
+
+0.9709	0.9236	0.9810	0.9925	0.5029	0.9819	0.9968	0.9994	0.9980	0.9598	0.9976	0.9647	0.9930	1.0000	0.9996	0.9923	0.7539	0.9993	0.9993	0.9882	0.5479	0.7589
+i	don't	believe	nothing	she	says
+O	V	V	N	O	V
+
+0.9863	1.0000	0.9998	0.9902	0.9948	0.9986
+i	don't	see	nothing	wrong	you	know	i	can't	see	nothing	wrong	with	a	little	bump	and	grind
+O	V	V	N	V	O	V	O	V	V	N	A	P	D	A	N	&	V
+
+0.9863	1.0000	0.9996	0.9915	0.4824	0.9993	0.9961	0.9943	0.9999	0.9994	0.9923	0.7539	0.9993	0.9993	0.9666	0.9661	0.9937	0.9601
+i	don't	wanna	dig	through	these	boxes	for	nothing
+O	V	V	V	P	D	N	P	N
+
+0.9863	1.0000	0.9992	0.9960	0.9841	0.9929	0.9957	0.9993	0.9939
+if	your	girlfriend	don't	bitch	about	nothing	then	she	cheating	on	your	dumb	ass	and	u	o	e	n	o	it
+P	D	N	V	V	P	N	R	O	V	P	D	A	N	&	O	P	G	&	P	O
+
+0.9979	0.9291	0.9986	0.9996	0.8332	0.9803	0.9896	0.9029	0.9946	0.9995	0.9695	0.9801	0.9802	0.9889	0.9962	0.9978	0.7463	0.3058	0.5575	0.8271	0.9977
+i	don't	know	why	but	i	feel	like	doing	something	thrilling	nothing	safe
+O	V	V	R	&	O	V	P	V	N	A	N	A
+
+0.9863	1.0000	0.9996	0.9511	0.9909	0.9936	0.9995	0.9189	0.9968	0.9895	0.6598	0.9987	0.7386
+you	just	don't	get	it	do	you	esreturn	esreturn	i	want	you	esreturn	esreturn	nothing	else	no	one	else	esreturn	esreturn	just	you
+O	R	V	V	O	V	O	V	N	O	V	O	V	V	N	R	D	N	R	V	R	R	O
+
+0.9942	0.9992	0.9999	1.0000	0.9983	0.9996	0.9984	0.7861	0.2332	0.9739	1.0000	0.9977	0.7861	0.4599	0.9901	0.8553	0.8826	0.7403	0.8266	0.2421	0.2690	0.9996	0.9966
+hopefulllly	i	don't	stay	home	doing	nothing	tonight	-punct-
+R	O	V	V	N	V	N	R	G
+
+0.9822	0.9934	1.0000	0.9984	0.8456	0.9984	0.9968	0.8025	0.2701
+but	ian	got	nothing	against	them	just	don't	try	nothing	on	me
+&	^	V	N	P	O	R	V	V	N	P	O
+
+0.9914	0.5232	0.9952	0.9932	0.9990	0.9741	0.9998	0.9999	0.9997	0.9862	0.9974	0.9982
+don't	really	feel	like	doing	nothing	on	my	birthday	someone	help	me	out	with	plans
+V	R	V	P	V	N	P	D	N	N	V	O	T	P	N
+
+0.9988	0.9883	0.9982	0.9217	0.9968	0.9972	0.9980	0.9981	0.9971	0.9910	0.9987	0.9988	0.9386	0.9955	0.9170
+i	don't	need	too	much	of	nothing	i	just	wanna	sing	a	little	chill	song	get	my	groove	on	i	just	want	a	little	bit	of	everything
+O	V	V	R	A	P	N	O	R	V	V	D	A	N	N	V	D	N	P	O	R	V	D	A	N	P	N
+
+0.9863	1.0000	0.9990	0.9983	0.7021	0.9936	0.9986	0.9510	0.9996	0.9933	0.9999	0.9988	0.9873	0.6338	0.9947	0.9987	0.9966	0.9969	0.9930	0.9944	0.9995	0.9998	0.9986	0.9968	0.9818	0.9972	0.9863
+-punct-	when	you	don't	do	things	the	right	way	nothing	goes	right
+^	R	O	V	V	N	D	A	N	N	V	R
+
+0.2224	0.9847	0.9990	1.0000	0.9998	0.9313	0.9875	0.9015	0.9295	0.9515	0.9940	0.4580
+-user-	no	females	do	it	and	don't	say	nothing
+N	D	N	V	O	&	V	V	N
+
+0.2991	0.9038	0.9999	0.9990	0.9956	0.9955	0.9996	0.9996	0.9764
+it	seems	like	when	i	don't	try	good	things	happen	but	when	i	actually	try	nothing	works
+O	V	P	R	O	V	V	A	N	V	&	R	O	R	V	N	V
+
+0.9955	0.9980	0.8519	0.9748	0.9894	1.0000	0.9994	0.9985	0.9989	0.9994	0.9703	0.9956	0.9879	0.9987	0.9973	0.9870	0.8935
+if	you	ain't	the	bank	teller	don't	tell	me	nothing
+P	O	V	D	N	N	V	V	O	N
+
+0.9977	0.9995	0.9990	0.9985	0.9746	0.9821	0.9996	0.9999	0.9991	0.9336
+i	don't	get	why	people	butt	into	conversations	that	have	nothing	to	do	with	them
+O	V	V	R	N	N	P	N	P	V	N	P	V	P	O
+
+0.9863	1.0000	0.9999	0.4798	0.9721	0.8754	0.9992	0.9983	0.8398	0.9969	0.9986	0.9927	0.9998	0.9971	0.9065
+don't	get	nothing	you	don't	earn	humble	pride	i	grew	up	on
+V	V	N	O	V	V	A	N	O	V	T	P
+
+0.9987	0.9999	0.9499	0.9966	1.0000	0.9996	0.9960	0.9992	0.9078	0.9999	0.9856	0.9228
+they	don't	call	me	the	sizzle	lip	squid	for	nothing
+O	V	V	O	D	N	N	N	P	N
+
+0.9886	1.0000	0.9998	0.9968	0.9920	0.7522	0.9788	0.8203	0.9992	0.9899
+women	don't	forget	nothing
+N	V	V	N
+
+0.9518	0.9998	0.9999	0.9928
+stereotypical	college	life	complaint	i	don't	want	to	read	the	suggested	book	it	looks	stupid	nothing	personal
+A	N	N	N	O	V	V	P	V	D	A	N	O	V	A	N	A
+
+0.9907	0.9855	0.9962	0.9679	0.9220	1.0000	0.9999	0.9941	0.9997	0.9586	0.7632	0.9438	0.9630	0.9972	0.9987	0.9987	0.8416
+people	s	promises	don't	mean	nothing
+N	G	V	V	V	N
+
+0.9826	0.4510	0.8652	0.9985	0.9981	0.9897
+don't	call	me	don't	text	me	don't	talk	to	me	nothing	no	more	forreal	cause	i	won't	be	there	for	you	anymore	buh	bye
+V	V	O	V	V	O	V	V	P	O	N	R	A	!	P	O	V	V	R	P	O	R	&	!
+
+0.9993	0.9998	0.9990	0.9998	0.9989	0.9991	0.9997	0.9989	0.9974	0.9966	0.9036	0.6676	0.7792	0.3208	0.5838	0.9876	0.9985	0.9993	0.9730	0.9996	0.9996	0.9916	0.2638	0.7615
+respect	to	women	who	don't	tweet	genric	tweets	about	guys	nothing	gets	me	more	mad
+V	P	N	O	V	V	A	N	P	N	N	V	O	R	A
+
+0.8801	0.9797	0.8030	0.9805	0.9999	0.9959	0.3132	0.9052	0.9874	0.9909	0.9893	0.9998	0.9926	0.9829	0.9841
+don't	be	bout	nothing	just	be	fucking	talking	-punct-
+V	V	P	N	R	V	R	V	G
+
+0.9993	0.9998	0.7330	0.9907	0.9997	0.9957	0.8518	0.9325	0.2161
+listening	to	-user-	and	-user-	on	repeat	to	help	me	forget	fuck	this	i	don't	need	rehab	because	there	s	nothing	wrong	with	me
+V	P	^	&	N	P	N	P	V	O	V	V	O	O	V	V	N	P	R	G	N	A	P	O
+
+0.9961	0.9930	0.3808	0.9981	0.6602	0.9975	0.6066	0.9986	0.9997	0.9993	0.9954	0.9293	0.6241	0.9923	1.0000	0.9990	0.6709	0.9986	0.4557	0.5035	0.9844	0.6984	0.9996	0.9983
+when	you	tell	-number-	person	something	-punct-	believe	me	-punct-	don't	say	nothing	-punct-	isn't	gonna	stop	them	from	telling	some	one	else	i	been	learned	that
+R	O	V	N	N	N	N	V	O	R	V	V	N	N	V	V	V	O	P	V	D	$	R	O	V	V	O
+
+0.9804	0.9985	0.9940	0.8823	0.9365	0.9860	0.2296	0.9995	0.9978	0.2582	0.9997	0.9997	0.9814	0.2899	0.9980	0.9895	0.9998	0.9737	0.9967	0.9947	0.9907	0.8482	0.8506	0.9944	0.9986	0.9987	0.7924
+i	don't	understand	why	nobody	can	just	deal	with	the	radio	broadcast	you	still	know	what	s	happening	and	it	s	better	than	nothing
+O	V	V	R	N	V	R	V	P	D	N	V	O	R	V	O	G	V	&	O	V	A	P	N
+
+0.9863	1.0000	0.9993	0.9513	0.9195	0.9964	0.9964	0.8219	0.9996	0.9996	0.9910	0.8338	0.9993	0.9928	0.9928	0.9935	0.4214	0.9734	0.9988	0.9971	0.5948	0.8076	0.9786	0.9924
+i	don't	take	nothing	from	nobody
+O	V	V	N	P	N
+
+0.9863	1.0000	0.9998	0.9984	0.9987	0.9585
+if	you	ain't	the	bank	teller	don't	tell	me	nothing
+P	O	V	D	N	N	V	V	O	N
+
+0.9977	0.9995	0.9990	0.9985	0.9746	0.9821	0.9996	0.9999	0.9991	0.9336
+-user-	lmao	but	yeah	you	right	i	don't	remember	nothing	from	saturday
+N	!	&	!	O	R	O	V	V	N	P	^
+
+0.3415	0.9847	0.9910	0.9379	0.9977	0.6073	0.9774	1.0000	0.9998	0.9921	0.9993	0.9816
+don't	need	nothing	but	a	good	time	-punct-	-hashtag-	-punct-	-hashtag-
+V	V	N	&	D	A	N	V	N	N	N
+
+0.9990	0.9996	0.9902	0.9909	0.9868	0.9993	0.9985	0.2717	0.5566	0.3887	0.7620
+don't	need	nothing	but	a	good	time	-punct-	-hashtag-	-punct-	-hashtag-
+V	V	N	&	D	A	N	V	N	N	N
+
+0.9990	0.9996	0.9902	0.9909	0.9868	0.9993	0.9985	0.2717	0.5566	0.3887	0.7620
+-user-	it	s	senior	year	don't	hold	nothing	back
+V	O	V	A	N	V	V	N	R
+
+0.2798	0.9872	0.5535	0.9972	0.9979	0.9995	0.9996	0.9895	0.8693
+-user-	bitch	i	said	my	step	mom	don't	know	nothing	about	fat	pussy	cause	she	watemalian	dumb	ass
+A	N	O	V	D	N	N	V	V	N	P	A	N	P	O	V	A	N
+
+0.3089	0.9979	0.9614	0.9999	0.9317	0.8909	0.9819	0.9999	0.9998	0.9719	0.8804	0.9842	0.9961	0.9837	0.9958	0.5021	0.9942	0.9831
+pennsauken	cops	don't	do	nothing
+^	N	V	V	N
+
+0.8260	0.9267	0.9999	0.9999	0.9757
+don't	feel	quite	as	frustrated	about	pirates	screwing	up	big	opps	now	liriano	has	nothing
+V	V	R	P	A	P	N	V	T	A	N	R	^	V	N
+
+0.9988	0.9990	0.9794	0.5972	0.5007	0.9873	0.8454	0.9647	0.8480	0.8678	0.4784	0.9899	0.8598	0.9969	0.9901
+don't	hide	your	sin	and	cover	up	esreturn	pretending	there	is	nothing	wrong	esreturn	instead	confess	it	and	repent	esreturn	then	god	will	fill	your	heart	with	song
+V	V	D	N	&	V	T	^	V	X	V	N	A	N	R	V	O	&	V	R	R	^	V	V	D	N	P	N
+
+0.9992	0.9999	0.9942	0.9986	0.9974	0.9033	0.9393	0.2344	0.9983	0.4934	0.9964	0.9643	0.8790	0.3555	0.9096	0.9971	0.9939	0.9936	0.9965	0.1967	0.9636	0.9218	0.9851	0.9997	0.9972	0.9975	0.9990	0.9928
+if	i	don't	find	nothing	to	do	soon	then	im	going	to	sleep
+P	O	V	V	N	P	V	R	R	L	V	P	V
+
+0.9840	0.9966	1.0000	0.9998	0.9969	0.9927	0.9996	0.9562	0.9795	0.9937	0.9870	0.9836	0.8985
+-user-	i	love	u	bro	don't	worry	about	nothing
+N	O	V	O	N	V	V	P	N
+
+0.6878	0.9276	0.9994	0.9881	0.9668	0.9994	0.9997	0.9630	0.9917
+why	glove	worried	about	me	for	i	don't	say	nothing	when	he	does	it	lol
+R	N	V	P	O	P	O	V	V	N	R	O	V	O	!
+
+0.8623	0.8328	0.8669	0.9884	0.9995	0.9849	0.9964	1.0000	0.9997	0.9678	0.9660	0.9968	1.0000	0.9935	0.9925
+-user-	amp	now	we	don't	have	nothing	to	do
+^	^	R	O	V	V	N	P	V
+
+0.4134	0.5604	0.9890	0.9974	1.0000	0.9999	0.9987	0.9927	0.9994
+-user-	-user-	they	don't	call	me	arod	for	nothing
+N	N	O	V	V	O	^	P	N
+
+0.3742	0.7794	0.9765	1.0000	0.9998	0.9956	0.8468	0.9982	0.9939
+when	-punct-	-hashtag-	argue	with	me	-punct-	i	don't	do	nothing	but	laugh
+R	A	N	V	P	O	R	O	V	V	N	&	V
+
+0.9727	0.5314	0.9315	0.9844	0.9987	0.9978	0.2925	0.9881	1.0000	0.9999	0.9821	0.9785	0.8032
+i	really	don't	give	a	fuck	no	more	bout	nothing
+O	R	V	V	D	N	D	A	P	N
+
+0.9813	0.9964	1.0000	0.9999	0.9862	0.8789	0.6213	0.7341	0.9275	0.9867
+-user-	don't	be	doing	nothing	crazy
+N	V	V	V	N	A
+
+0.5610	0.9992	0.9997	0.9960	0.9889	0.9906
+finna	get	high	with	my	big	brother	amp	don't	worry	about	nothing
+P	V	A	P	D	A	N	N	V	V	P	N
+
+0.4337	0.9997	0.6634	0.9995	0.9987	0.9836	0.9879	0.6155	0.9997	0.9999	0.9688	0.9934
+don't	feel	like	doing	nothing	-punct-
+V	V	P	V	N	G
+
+0.9988	0.9997	0.8938	0.9933	0.9948	0.3177
+i've	discovered	what	i	wanted	to	do	now	it	s	time	that	i	be	patient	i	don't	mean	not	sit	down	amp	so	nothing	but	work	on	what	i	can
+L	V	O	O	V	P	V	R	O	V	N	P	O	V	A	O	V	V	R	V	T	N	P	N	&	N	P	O	O	V
+
+0.9838	0.9907	0.9813	0.9922	0.9990	0.9703	0.9997	0.9919	0.9945	0.5573	0.9543	0.8438	0.9934	0.9995	0.6384	0.9554	1.0000	0.9970	0.9949	0.9965	0.8002	0.7463	0.7937	0.9799	0.9827	0.8693	0.9909	0.9796	0.9940	0.9997
+caring	don't	do	nothing	but	get	you	hurt	in	the	end
+V	V	V	N	&	V	O	V	P	D	N
+
+0.9946	0.9995	0.9999	0.9784	0.9546	0.9989	0.9998	0.9953	0.9878	0.9986	0.9891
+no	battery	don't	die	my	life	will	be	nothing	without	you
+D	N	V	V	D	N	V	V	N	P	O
+
+0.8787	0.9996	0.9995	0.9999	0.9989	0.9988	0.9922	0.9996	0.9951	0.9995	0.9993
+don't	take	nothing	from	nobody
+V	V	N	P	N
+
+0.9992	0.9998	0.9982	0.9992	0.9483
+for	all	you	children	out	there	who	still	beat	people	don't	come	after	the	kid	who	had	nothing	to	do	with	it	now	go	ice	your	face
+P	D	O	V	T	R	O	R	V	N	V	V	P	D	N	O	V	N	P	V	P	O	R	V	N	D	N
+
+0.9989	0.7567	0.9012	0.8611	0.4973	0.7905	0.9955	0.9961	0.9855	0.9970	0.9998	0.9998	0.9886	0.9977	0.9378	0.9871	0.9998	0.9944	0.9927	0.9998	0.9977	0.9986	0.9968	0.9768	0.4621	0.9719	0.9981
+i	am	so	freaking	sleepy	i	don't	feel	like	doing	nothing
+O	V	R	R	A	O	V	V	P	V	N
+
+0.9875	0.9968	0.6510	0.8396	0.9965	0.9743	1.0000	0.9997	0.8991	0.9982	0.9969
+-user-	i	don't	want	nothing	bad	happening
+N	O	V	V	N	A	V
+
+0.6878	0.9368	1.0000	0.9999	0.9726	0.8465	0.6603
+i	feel	like	getting	ready	but	i	don't	want	to	get	ready	for	nothing	-punct-	-punct-	u	feel	me
+O	V	P	V	A	&	O	V	V	P	V	A	P	N	G	V	O	V	O
+
+0.9836	0.9996	0.8940	0.9971	0.9834	0.9873	0.9945	1.0000	0.9999	0.9971	0.9998	0.9893	0.9996	0.9927	0.2355	0.5620	0.9989	0.9998	0.9991
+the	one	night	we	don't	have	a	curfew	and	actually	dress	cute	we	have	nothing	to	do
+D	$	N	O	V	V	D	N	&	R	V	A	O	V	N	P	V
+
+0.9981	0.9561	0.9731	0.9980	1.0000	1.0000	0.9974	0.9281	0.9982	0.9913	0.8678	0.9927	0.9957	0.9996	0.9988	0.9909	0.9994
+and	i	love	you	more	then	i	did	before	and	if	today	i	don't	see	you	face	nothing	s	changed	no	one	can	take	your	place
+&	O	V	O	R	R	O	V	P	&	P	N	O	V	V	O	N	N	G	V	D	N	V	V	D	N
+
+0.9990	0.9909	0.9996	0.9973	0.5958	0.9884	0.9970	0.9997	0.5138	0.9970	0.9506	0.9937	0.9608	1.0000	0.9999	0.6137	0.5114	0.9932	0.6058	0.9626	0.9754	0.6829	0.9946	0.9999	0.9971	0.9987
+if	u	don't	luv	the	way	borscht	rolls	off	ur	tongue	then	find	a	hobby	because	u	r	worthless	and	do	nothing	good	for	the	world
+P	O	V	V	D	N	N	V	T	D	N	R	V	D	N	P	O	V	A	&	V	N	A	P	D	N
+
+0.9967	0.9995	1.0000	0.9955	0.9995	0.9483	0.7424	0.5217	0.7456	0.9805	0.9918	0.9100	0.9970	0.9984	0.9960	0.9997	0.9987	0.9448	0.9965	0.9982	0.9989	0.9747	0.9701	0.9999	0.9993	0.9753
+cause	i	don't	see	nothing	wrong	with	a	little	bump	and	grind
+P	O	V	V	N	A	P	D	A	N	&	V
+
+0.5690	0.9943	1.0000	0.9996	0.9923	0.7539	0.9993	0.9993	0.9666	0.9368	0.9925	0.9512
+-user-	stop	i	swear	i	don't	lol	don't	start	problems	now	i	told	u	nothing	ever	happened
+N	N	O	V	O	V	!	V	V	N	R	O	V	O	N	R	V
+
+0.4862	0.6042	0.9741	0.9985	0.9949	0.9999	0.9364	0.9993	0.9997	0.9690	0.9978	0.9930	1.0000	0.9981	0.9711	0.9903	0.9981
+i	don't	got	nothing	to	do	-punct-	you	sound	so	fucking	dumb	.	"	subbbbbs
+O	V	V	N	P	V	V	O	V	P	R	A	,	,	N
+
+0.9863	1.0000	0.9999	0.9939	0.9927	0.9997	0.5749	0.9977	0.9569	0.5798	0.9132	0.9985	0.9977	0.9907	0.9861
+-user-	yu	have	fun	but	don't	do	nothing	crazy	now	i	want	my	baby	home	in	one	piece	i	don't	care	if	-user-	gets	arrested
+N	O	V	N	&	V	V	N	A	R	O	V	D	N	N	P	$	N	O	V	V	P	N	V	V
+
+0.4064	0.9774	0.9978	0.6707	0.9844	0.9995	0.9999	0.9740	0.9633	0.9921	0.9932	1.0000	0.9987	0.9974	0.9801	0.9955	0.9187	0.9962	0.9251	1.0000	0.9983	0.9957	0.6230	0.9956	0.9782
+-user-	u	don't	love	nothing	more	than	-user-
+N	O	V	V	N	A	P	N
+
+0.3823	0.9904	1.0000	0.9956	0.9589	0.5649	0.9927	0.7099
+loosing	my	dad	-punct-	head	of	the	familly	was	hard	enough	to	believe	amp	now	niggas	don't	see	nothing	else	to	do	but	trying	to	separate	what	s	left
+V	D	N	G	N	P	D	N	V	A	N	P	V	N	R	N	V	V	N	R	P	V	&	V	P	A	O	V	V
+
+0.9982	0.9980	0.9950	0.1868	0.9908	0.9997	0.9993	0.9826	0.9928	0.6483	0.6110	0.9963	0.9962	0.5782	0.9871	0.9131	0.9998	0.9996	0.9966	0.9468	0.9730	0.9996	0.9747	0.9979	0.9606	0.8770	0.9651	0.4117	0.7622
+been	home	for	almost	an	hour	and	still	have	my	work	clothes	on	-punct-	my	body	don't	feel	like	doing	nothing
+V	N	P	R	D	N	&	R	V	D	N	N	P	G	D	N	V	V	P	V	N
+
+0.9784	0.8217	0.9983	0.9475	0.9780	0.9947	0.9982	0.9955	0.9996	0.9979	0.9846	0.9965	0.9968	0.4024	0.9977	0.9989	0.9995	0.9997	0.9125	0.9972	0.9958
+sings	i	don't	see	nothing	wroooong	with	a	little	bump	and	griiind
+V	O	V	V	N	A	P	D	A	N	&	V
+
+0.6130	0.9904	1.0000	0.9996	0.9923	0.4965	0.9993	0.9993	0.9666	0.9368	0.9925	0.9514
+if	you	go	to	central	don't	post	nothing	about	a	teacher	or	student	they	will	find	out
+P	O	V	P	N	V	V	N	P	D	N	&	N	O	V	V	T
+
+0.9977	0.9996	0.9989	0.9205	0.6077	0.9972	0.9799	0.9515	0.9957	0.9980	0.9963	0.9903	0.9730	0.9757	0.9994	0.9997	0.9666
+-user-	lmao	don't	justify	nothing
+N	!	V	V	N
+
+0.3415	0.9553	0.9994	0.9982	0.9933
+pls	don't	talk	about	my	dads	family	if	you	know	nothing	bout	em	-punct-	-hashtag-
+V	V	V	P	D	N	N	P	O	V	N	P	O	V	N
+
+0.5262	0.9997	0.9996	0.9968	0.9957	0.9301	0.9600	0.9997	0.9998	0.9994	0.9829	0.9682	0.9785	0.2590	0.5601
+my	mood	so	fuck	up	i	don't	give	a	shit	about	nothing	right	now
+D	N	P	V	T	O	V	V	D	N	P	N	R	R
+
+0.9970	0.9984	0.8739	0.9455	0.9773	0.9916	1.0000	0.9999	0.9988	0.9929	0.9908	0.9858	0.9666	0.9948
+-user-	i	don't	know	you	nothing	personal
+N	O	V	V	O	N	A
+
+0.6878	0.9368	1.0000	0.9999	0.9983	0.8862	0.8992
+they	don't	know	nothing	about	baseball
+O	V	V	N	P	N
+
+0.9886	1.0000	0.9998	0.9824	0.9821	0.9736
+on	that	note	i	hate	mourning	posts	dead	people	don't	have	social	media	so	posting	about	it	is	literally	for	nothing	more	than	attention
+P	D	N	O	V	V	N	A	N	V	V	A	N	P	V	P	O	V	R	P	N	A	P	N
+
+0.9742	0.8590	0.9976	0.9430	0.9998	0.9836	0.9635	0.9517	0.9995	0.9999	0.9998	0.8004	0.9928	0.7359	0.9930	0.9895	0.9998	0.9993	0.9993	0.9953	0.9885	0.5078	0.9903	0.9938
+-user-	-user-	-user-	i	don't	see	how	you	think	peyton	is	better	than	brady	nothing	he	has	done	says	that
+N	N	N	O	V	V	R	O	V	^	V	A	P	^	N	O	V	V	V	O
+
+0.3742	0.8368	0.9553	0.9258	1.0000	0.9991	0.9890	0.9998	0.9993	0.9975	0.9974	0.8767	0.9831	0.9271	0.9840	0.9939	0.9996	0.9687	0.9959	0.7952
+when	faith	isn't	over	i	don't	know	what	to	do	there	is	nothing	to	do	at	my	house
+R	N	V	P	O	V	V	O	P	V	X	V	N	P	V	P	D	N
+
+0.9688	0.9685	0.9989	0.7050	0.9982	1.0000	0.9996	0.9937	0.9673	0.9998	0.6118	0.9964	0.9901	0.9927	0.9996	0.9954	0.9977	0.9937
+-user-	can	you	read	me	i	don't	know	nothing	about	nba	but	your	great	xoxo
+N	V	O	V	O	O	V	V	N	P	^	&	D	A	E
+
+0.4187	0.9983	0.9986	0.9999	0.9974	0.9745	1.0000	0.9998	0.9719	0.9853	0.8180	0.9905	0.8181	0.9841	0.8246
+i	had	both	the	sister	i	don't	act	like	nothing	but	i'm	sleep
+O	V	O	D	N	O	V	V	P	N	&	L	V
+
+0.9896	0.9999	0.5847	0.9974	0.9991	0.9304	1.0000	0.9980	0.8897	0.9937	0.9668	0.9953	0.4885
+-user-	i	had	both	the	sister	i	don't	act	like	nothing	but	i'm	sleep	-punct-	yeah	lol
+N	O	V	O	D	N	O	V	V	P	N	&	L	V	N	!	!
+
+0.6878	0.9521	0.9999	0.5172	0.9976	0.9991	0.9304	1.0000	0.9980	0.8897	0.9937	0.9663	0.9938	0.6182	0.2881	0.9705	0.9995
+-user-	can	you	read	me	i	don't	know	nothing	about	nba	but	you're	great
+N	V	O	V	O	O	V	V	N	P	^	&	L	A
+
+0.4187	0.9983	0.9986	0.9999	0.9974	0.9745	1.0000	0.9998	0.9719	0.9853	0.8180	0.9921	0.9898	0.9976
+amp	i	don't	think	i	love	anything	the	way	some	people	love	morrissey	it	s	just	that	nothing	speaks	to	me	that	way
+N	O	V	V	O	V	N	D	N	D	N	V	^	O	V	R	P	N	V	P	O	D	N
+
+0.4796	0.9697	1.0000	0.9991	0.9931	0.9979	0.8718	0.9992	0.9548	0.9627	0.9968	0.9195	0.8640	0.9836	0.4953	0.9986	0.4448	0.9869	0.9871	0.9945	0.9970	0.5468	0.9665
+-user-	lol	i	don't	care	about	mahamed	and	ahmed	we've	got	that	figured	out	already	just	in	general	don't	wanna	do	nothing	tonight
+N	!	O	V	V	P	^	&	^	L	V	O	V	T	R	R	P	A	V	V	V	N	R
+
+0.4902	0.9928	0.9929	1.0000	0.9985	0.9674	0.6683	0.9985	0.9809	0.7910	0.9986	0.9029	0.9997	0.8887	0.9965	0.9997	0.9751	0.6552	0.9572	0.9995	0.9996	0.9895	0.6930
+i	just	really	don't	care	about	nothing	at	the	moment
+O	R	R	V	V	P	N	P	D	N
+
+0.9811	0.9995	0.9985	0.9999	0.9985	0.9749	0.9953	0.9999	0.9997	0.9940
+oomf	annoys	the	fuck	out	of	me	she	don't	do	nothing	wrong	but	her	face	just	makes	me	wanna	die
+O	V	D	N	P	P	O	O	V	V	N	A	&	D	N	R	V	O	V	V
+
+0.4333	0.9994	0.9915	0.9417	0.7770	0.9962	0.9973	0.9929	1.0000	0.9999	0.9717	0.9221	0.9912	0.9537	0.9993	0.9993	0.9999	0.9992	0.9644	0.9943
+i	don't	have	nothing	and	i'm	light	skin	-punct-	nobody	wants	me	-punct-
+O	V	V	N	&	L	A	N	V	N	V	O	G
+
+0.9863	1.0000	0.9999	0.9980	0.9951	0.9925	0.6058	0.9971	0.3417	0.9195	0.9997	0.9974	0.2537
+i	don't	want	to	get	ready	to	have	nothing	to	do
+O	V	V	P	V	A	P	V	N	P	V
+
+0.9863	1.0000	0.9999	0.9970	0.9998	0.9893	0.9987	0.9997	0.9988	0.9942	0.9990
+-punct-	i	don't	no	nothing	bout	i	chat	-punct-	im	working	this	iphone	they	need	an	app	called	i	trap	-punct-
+N	O	V	D	N	P	O	V	N	L	V	D	^	O	V	D	N	V	O	V	G
+
+0.2347	0.9680	1.0000	0.7346	0.9999	0.8958	0.9444	0.9966	0.1916	0.9756	0.9984	0.9010	0.5201	0.9818	0.9994	0.9929	0.9811	0.9850	0.9473	0.6806	0.2009
+wow	my	parents	don't	text	me	back	and	it	means	nothing
+!	D	N	V	V	O	R	&	O	V	N
+
+0.9754	0.9942	0.9967	0.9997	0.9989	0.9985	0.9533	0.9993	0.9980	0.9993	0.9877
+you're	a	lard	ass	if	you	can't	take	jokes	don't	try	and	take	everything	seriously	when	nothing	will	take	you	seriously
+L	D	N	N	P	O	V	V	N	V	V	&	V	N	R	R	N	V	V	O	R
+
+0.9878	0.9935	0.9709	0.9526	0.9999	0.9997	0.9999	0.9995	0.9921	0.9998	0.9981	0.9938	0.9931	0.9884	0.9985	0.9922	0.9901	0.9921	0.9999	0.9972	0.9968
+-user-	lmao	you	right	-emoticon-	i	miss	just	laying	down	in	bed	witchu	all	night	-emoticon-	but	not	even	twitter	don't	know	nothing	nada
+N	!	O	A	N	O	V	R	V	T	P	N	P	D	N	N	&	R	R	^	V	V	N	G
+
+0.3415	0.9592	0.9963	0.7453	0.9316	0.9457	0.9977	0.9993	0.9999	0.4879	0.9874	0.9771	0.9427	0.9952	0.9783	0.4310	0.9913	0.9992	0.9970	0.9317	0.9983	0.9998	0.9880	0.6537

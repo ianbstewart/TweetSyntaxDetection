@@ -1,0 +1,4 @@
+steady\\_ _\\(V|A)
+^_\\[ON] steady\\_
+^_\\D _\\N steady\\_
+^_\\\^ steady\\_

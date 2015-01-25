@@ -1,0 +1,5 @@
+_\\[^VI][A-Z]* ([s]*he|we|y[']*all|they)\\PRP _\\(VBG|IN|JJ|NN)
+(^[s]*he|^we|^they)\\PRP _\\(VBG|IN|JJ|NN[S]*)
+(^you|y[']*all)\\PRP _\\(VBG|IN|JJ)
+_\\[^VI][A-Z]* ([s]*he|we|y[']*all|they)\\PRP (a|the)\\DT
+(^you|^[s]*he|^we|^y[']*all|^they)\\PRP (a|the)\\DT

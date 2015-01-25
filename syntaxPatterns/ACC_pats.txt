@@ -1,0 +1,2 @@
+_\\PRP\$ (ass|asses)\\NN[S]* _\\(VB|MD)[^N]
+_\\(VB|MD)[A-Z]* _\\PRP\$ (ass|asses)\\NN

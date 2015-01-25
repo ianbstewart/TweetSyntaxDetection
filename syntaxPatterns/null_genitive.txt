@@ -1,0 +1,4 @@
+they\\PRP _\\NN[^P]
+y'?all\\PRP _\\NN[^SP]
+(they|y'?all)\\PRP _\\NN$
+(they|y'?all)\\PRP _\\JJ _\\NN[^SP]

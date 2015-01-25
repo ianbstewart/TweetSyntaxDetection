@@ -1,0 +1,2 @@
+_\\, (ain'?t|can'?t|don'?t|won'?t|shouldn'?t|couldn'?t|wouldn'?t)\\_ (no|nobody|nowhere|n[ou]thing?)\\_
+(^ain'?t|^can'?t|^don'?t|^won'?t|^shouldn'?t|^couldn'?t|^wouldn'?t)\\_ (no|nobody|nowhere|n[ou]thing?)\\_

@@ -1,0 +1,17 @@
+This\DT is\VBZ a\DT test\NN .\.
+@JackNicholson\USR All\DT work\NN and\CC no\DT play\NN makes\VBZ Jack\NNP a\DT dull\JJ boy\NN .\. #theShining\HT
+@Hal\USR ,\, open\JJ the\DT bay\NN doors\NNS .\. #2001\HT
+But\CC @JohnnyDepp\USR ,\, why\WRB is\VBZ all\DT the\DT rum\NN gone\VBN ?\. #pirates\HT
+The\DT first\JJ rule\NN of\IN Fight\NNP Club\NNP :\: you\PRP don't\VBP talk\VB about\IN Fight\NNP Club\NNP .\.
+@GretchenWeiners\USR stop\VB trying\VBG to\TO make\VB #fetch\HT happen\VB !!\. #meanGirls\HT
+.\. @Stitch\USR Ohana\NNP means\VBZ family\NN ;\: family\NN means\VBZ no\DT one\NN gets\VBZ left\VBN behind\IN .\.
+You\PRP a\DT stupid\JJ ho\NN ,\, you\PRP a\DT you\PRP a\DT stupid\JJ ho\NN .\. @NickiMinaj\USR
+Who\WP you\PRP finna\VBG try\VB ,\, who\WP you\PRP finna\VBG try\VB ?\.
+Ain't\VBP nobody\NN got\VBD time\NN fo\UH dat\UH .\.
+Bitches\NNS ain't\VBP shit\NN and\CC they\PRP ain't\VBP saying\VBG nothin\NN '\'' ,\, a\DT hundred\NN mothafuckas\NNS can't\MD tell\VB me\PRP nothin\NN '\'' .\.
+Man\UH I\PRP been\VBN did\VBD that\DT ,\, man\UH I\PRP been\VBN popped\VBN off\RP .\.
+If\IN I\PRP weren't\VBD rappin\VBG '\'' I\PRP be\VBP trappin\VBG '\'' ,\, if\IN I\PRP weren't\VBD trappin\VBG '\'' I\PRP be\VBP pimpin\VBG '\''
+This\DT fool\NN done\VBN stole\VBN a\DT car\NN !\.
+Steady\RB checking\VBG and\CC wrecking\VBG and\CC going\VBG off\RP in\IN the\DT booth\NN .\.
+It's\PRP '\'' bout\IN time\NN we\PRP put\VBP it\PRP in\IN they\PRP$ face\NN .\.
+I\PRP really\RB hate\VBP your\PRP$ ass\NN right\RB now\RB .\.

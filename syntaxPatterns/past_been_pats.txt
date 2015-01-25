@@ -1,0 +1,2 @@
+been\\VBN _\\VB[DN] (me|(yo)?u|him|her|us|y'?all|them)\\PRP
+been\\VBN _\\VB[DN] _\\DT _\\NN

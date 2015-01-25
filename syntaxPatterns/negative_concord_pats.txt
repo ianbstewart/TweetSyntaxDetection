@@ -1,0 +1,3 @@
+(ain'?t|can'?t|don'?t|won'?t|shouldn'?t|couldn'?t|wouldn'?t)\\_ _\\[VNAT] (no|nobody|nowhere|n[ou]thing?|noone)\\_
+(ain'?t|can'?t|don'?t|won'?t|shouldn'?t|couldn'?t|wouldn'?t)\\_ _\\[VNAT] _\\[VNAT] (no|nobody|nowhere|n[ou]thing?|noone)\\_
+(ain'?t|can'?t|don'?t|won'?t|shouldn'?t|couldn'?t|wouldn'?t)\\_ (never|nevah?)\\_
